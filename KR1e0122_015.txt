@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋繁露
-#+DATE: 2015-09-23 09:40:45
+#+DATE: 2015-09-10 22:50:47.174522
+#+PROPERTY: ID KR1e0122
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 15
+#+PROPERTY: FILE SB01n0019-015春秋繁露-卷第十五.
 <pb:KR1e0122_SBCK_015-1a>¶
 春秋繁露卷十五¶
 　　　　　漢　董　仲　舒　撰¶
@@ -178,4 +182,3 @@
 陛下乃幸使九&KR0056;問以朝廷之事臣愚陋曾不足以承¶
 明詔奉大對臣仲舒昧死以聞¶
 春秋繁露卷十五¶
-

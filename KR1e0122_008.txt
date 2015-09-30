@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋繁露
-#+DATE: 2015-09-23 09:40:45
+#+DATE: 2015-09-10 22:50:46.884157
+#+PROPERTY: ID KR1e0122
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0019-008春秋繁露-卷第八.
 <pb:KR1e0122_SBCK_008-1a>¶
 春秋繁露卷八¶
 　　　　　漢　董　仲　舒　撰¶
@@ -265,4 +269,3 @@
 至也異之顯明可畏(案畏他本/誤作謂)也此乃天之所欲救也¶
 <pb:KR1e0122_SBCK_008-14a>¶
 <pb:KR1e0122_SBCK_008-15a>¶
-

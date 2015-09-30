@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋繁露
-#+DATE: 2015-09-23 09:40:45
+#+DATE: 2015-09-10 22:50:47.092194
+#+PROPERTY: ID KR1e0122
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB01n0019-013春秋繁露-卷第十三.
 <pb:KR1e0122_SBCK_013-1a>¶
 　春秋繁露卷十三¶
 　　　　　　漢　董　仲　舒　撰¶
@@ -222,4 +226,3 @@
 警百官誅不法存長老無焚金石水用事則閉門閭大¶
 搜索斷刑罰執當罪飭梁關禁外陡(案他本/陡作徒)無決池隄¶
 春秋繁露卷十三¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋繁露
-#+DATE: 2015-09-23 09:40:45
+#+DATE: 2015-09-10 22:50:46.612070
+#+PROPERTY: ID KR1e0122
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0019-001春秋繁露-卷第一.
 <pb:KR1e0122_SBCK_001-1a>¶
 春秋繁露卷一¶
 　　　　　漢　董　仲　舒¶
@@ -227,4 +231,3 @@
 <pb:KR1e0122_SBCK_001-12b>¶
 ¶
 春秋繁露卷一¶
-

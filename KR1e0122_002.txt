@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋繁露
-#+DATE: 2015-09-23 09:40:45
+#+DATE: 2015-09-10 22:50:46.647718
+#+PROPERTY: ID KR1e0122
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0019-002春秋繁露-卷第二.
 <pb:KR1e0122_SBCK_002-1a>¶
 春秋繁露卷二¶
 　　　　　漢　董　仲　舒　撰¶
@@ -159,4 +163,3 @@
 (本窮/作罪)也曰有國者視此行(案他本/行作得)身不放義興事不審¶
 時其(案他本其字/在時字上)何如此爾¶
 春秋繁露卷二¶
-

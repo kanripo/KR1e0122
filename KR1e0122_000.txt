@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋繁露
-#+DATE: 2015-09-23 09:40:45
+#+DATE: 2015-09-10 22:50:46.544826
+#+PROPERTY: ID KR1e0122
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0019-000春秋繁露-序.
 <pb:KR1e0122_SBCK_000-1a>¶
 玉聲而後烹(原註一/作享)正刑多隱親&KR4229;多赦封壇於左位¶
 主地法文而王其道進陰尊尊而多禮文故立嗣予孫¶
@@ -30,6 +34,8 @@
 藏此書常謂仲舒之學乆欝不發將以廣之¶
 天下就予求序因書其本末云慶曆七年二¶
 月大理評事四明樓郁書¶
+#+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0019-000春秋繁露-目録.
 <pb:KR1e0122_SBCK_000-3a>¶
 春秋繁露目錄　武英殿聚珍版¶
 　卷一¶
@@ -168,4 +174,3 @@
 　　　者終沈於蠧簡中矣茲豈非萬世一遇哉(臣)等¶
 　　　編校之餘爲是書幸且爲讀是書者幸也乾隆¶
 　　　三十八年十月恭校上¶
-

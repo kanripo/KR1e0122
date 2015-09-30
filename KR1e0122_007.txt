@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋繁露
-#+DATE: 2015-09-23 09:40:45
+#+DATE: 2015-09-10 22:50:46.843155
+#+PROPERTY: ID KR1e0122
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0019-007春秋繁露-卷第七.
 <pb:KR1e0122_SBCK_007-1a>¶
 春秋繁露卷七¶
 　　　　　漢　董　仲　舒　撰¶
@@ -299,4 +303,3 @@
 <pb:KR1e0122_SBCK_007-17a>¶
 ¶
 　春秋繁露卷七¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋繁露
-#+DATE: 2015-09-23 09:40:45
+#+DATE: 2015-09-10 22:50:46.965240
+#+PROPERTY: ID KR1e0122
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0019-010春秋繁露-卷第十.
 <pb:KR1e0122_SBCK_010-1a>¶
 　春秋繁露卷十¶
 　　　　　　漢　董　仲　舒　撰¶
@@ -201,4 +205,3 @@
 　　闕文第三十九¶
 　　闕文第四十¶
 春秋繁露卷十¶
-

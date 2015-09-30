@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋繁露
-#+DATE: 2015-09-23 09:40:45
+#+DATE: 2015-09-10 22:50:46.926034
+#+PROPERTY: ID KR1e0122
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0019-009春秋繁露-卷第九.
 <pb:KR1e0122_SBCK_009-1a>¶
 　春秋繁露卷九¶
 　　　　　　漢　董　仲　舒　撰¶
@@ -157,4 +161,3 @@
 (羊日邾庶其者何邾婁大夫也二十三年邾卑我來奔/杜注卑我是庶其之黨同有竊邑叛君之罪公羊作鼻)¶
 (我邾婁大夫也穀梁作&KR0140;我/案以上七十九字據/文義乃舊時繁露注原本他本俱誤作正文今校正)¶
 春秋繁露卷九¶
-

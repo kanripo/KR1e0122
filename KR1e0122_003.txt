@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋繁露
-#+DATE: 2015-09-23 09:40:45
+#+DATE: 2015-09-10 22:50:46.684963
+#+PROPERTY: ID KR1e0122
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0019-003春秋繁露-卷第三.
 <pb:KR1e0122_SBCK_003-1a>¶
 春秋繁露卷三¶
 　　　　　漢　董　仲　舒　撰¶
@@ -216,4 +220,3 @@
 尚(案尙他本/誤作南)將興鄰國豈&KR0033;弑哉此吾所悁悁而悲者¶
 也¶
 春秋繁露卷三¶
-
